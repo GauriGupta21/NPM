@@ -1,0 +1,26 @@
+{
+  "name": "terraflow-lib",
+  "version": "1.0.0",
+  "description": "A npm package",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauriGupta21/NPM.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Gauri Gupta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GauriGupta21/NPM/issues"
+  },
+  "homepage": "https://github.com/GauriGupta21/NPM#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
